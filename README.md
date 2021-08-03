@@ -6,3 +6,7 @@ Please leave reccomednations.
 World Models
 https://arxiv.org/abs/1803.10122
 
+# Training on Representations
+
+# Training Recombinance
+
