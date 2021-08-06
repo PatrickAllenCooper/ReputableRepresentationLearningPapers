@@ -4,7 +4,7 @@ Please leave reccomednations.
 
 # General Excellence
 Perceiver IO: A General Architecture for Structured Inputs & Outputs<br />
-03 AUG 2021<br />
+03 Aug 2021<br />
 https://arxiv.org/abs/2103.03206
 
 # Founding Papers
